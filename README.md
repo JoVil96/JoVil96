@@ -48,7 +48,7 @@
 
 ## 📫 Contacto
 - 💼 GitHub: [@JoVil96](https://github.com/JoVil96)  
-- 🌐 LinkedIn: *([agrega tu enlace](https://www.linkedin.com/in/jose-villafuerte-88774a218/))*  
+- 🌐 LinkedIn: *([jose-villafuerte-88774a218](https://www.linkedin.com/in/jose-villafuerte-88774a218/))*  
 
 
 ---
